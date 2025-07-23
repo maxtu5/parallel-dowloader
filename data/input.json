@@ -1,0 +1,14 @@
+{
+  "urls": [
+    "https://filesamples.com/samples/document/csv/sample4.csv",
+    "https://getsamplefiles.com/download/zip/sample-1.zip",
+    "https://getsamplefiles.com/download/zip/sample-5.zip",
+    "https://getsamplefiles.com/download/mp4/sample-2.mp4",
+    "http://ipv4.download.thinkbroadband.com:8080/5GB.zip",
+    "",
+    "https://file-examples.com/wp-content/storage/2017/10/file-example_PDF_1MB.pdf"
+  ],
+  "maxDuration": 600,
+  "targetPath": "data/files/",
+  "maxConcurrent": 3
+}
