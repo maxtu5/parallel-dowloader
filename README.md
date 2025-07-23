@@ -10,3 +10,4 @@ This is a very simple prototype, multiple functional and non-functional requirem
 4. I simply count files in the target folder, relying on the fact it's empty. Need smarter way to count.
 5. Multiple additional functionalities are available. This includes downloading large files in parallel in chunks in case if we have free executors. Or folder management like create folder, clear folder, ask on file rewrite, etc.
 6. Time measurement could be implemented as aspect 
+7. It worth considering reactive approach, with Futures. However, I don't see large benefits from this
