@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "http://localhost:8998/hello"
+  ],
+  "maxDuration": 600,
+  "targetPath": "data/files/",
+  "maxConcurrent": 3
+}
