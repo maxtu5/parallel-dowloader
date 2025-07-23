@@ -1,6 +1,6 @@
 Program usage:
 1. build jar
-2. provide batch config file with relevant data
+2. provide batch config file with relevant data (example in /data folder)
 3. run java -jar out/artifacts/parallel-downloader.jar <path>
 
 This is a very simple prototype, multiple functional and non-functional requirements to be implemented for production.
